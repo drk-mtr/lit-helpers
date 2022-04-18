@@ -1,0 +1,1 @@
+{"version":3,"file":"service-requester.interface.js","sourceRoot":"","sources":["../../../src/service-manager/service-requester.interface.ts"],"names":[],"mappings":"","sourcesContent":["export interface IServiceRequester {\n  getServiceInstance: (key: string) => any;\n}"]}

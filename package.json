@@ -1,0 +1,25 @@
+{
+  "name": "lit-helpers",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc",
+    "watch": "tsc --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/drk-mtr/lit-helpers.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/drk-mtr/lit-helpers/issues"
+  },
+  "homepage": "https://github.com/drk-mtr/lit-helpers#readme",
+  "dependencies": {
+    "lit": "^2.2.2"
+  }
+}

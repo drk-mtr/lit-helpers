@@ -1,0 +1,1 @@
+{"version":3,"file":"service-creator.interface.js","sourceRoot":"","sources":["../../../src/service-manager/service-creator.interface.ts"],"names":[],"mappings":"","sourcesContent":["export interface IServiceCreator {\n  createService: (key: any, instance: any) => void;\n}"]}
